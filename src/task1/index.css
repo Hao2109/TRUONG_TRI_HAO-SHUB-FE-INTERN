@@ -1,0 +1,7 @@
+.ant-card .ant-card-body::before {
+  display: none;
+}
+
+.ant-card .ant-card-body::after {
+  display: none;
+}
